@@ -1,0 +1,2 @@
+# cosx
+infinite series sum
