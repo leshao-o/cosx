@@ -1,2 +1,2 @@
 # cosx
-infinite series sum
+infinite series sum cosx
